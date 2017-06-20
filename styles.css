@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline #6ABC95;
+    text-transform: uppercase;
+    
+}
+
+ .usrEmail {
+  color: #DFDFDF;
+  text-transform: uppercase ;
+}
+
+.usrCell {
+    color:transparent;
+     text-shadow: 0 0 5px #6ABC95;
+}
+
+/*#container {
+    display:flex;
+}*/
+.random-user {
+ margin-left: 5px;
+ display: inline-block;
+
+}
+
+.adrTop{
+    text-transform: capitalize;
+    
+}
+
+.adrBottom{
+text-transform: capitalize;
+    
+}
+
+img {
+    width: 280px;
+}
